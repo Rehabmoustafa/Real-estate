@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Integreation Real State DWH", "Real stat dwh\Integreation Real State DWH.dtproj", "{C57A975C-ACE7-B106-A690-DEB7A764E8B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57A975C-ACE7-B106-A690-DEB7A764E8B9}.Development|Default.ActiveCfg = Development
+		{C57A975C-ACE7-B106-A690-DEB7A764E8B9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62440986-FCD6-43E6-AE31-D1FEEA99A72E}
+	EndGlobalSection
+EndGlobal
